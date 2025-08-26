@@ -507,9 +507,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{ceritifyUrl}}/issuance/credential",
+							"raw": "{{certifyurl}}/issuance/credential",
 							"host": [
-								"{{ceritifyUrl}}"
+								"{{certifyurl}}"
 							],
 							"path": [
 								"issuance",

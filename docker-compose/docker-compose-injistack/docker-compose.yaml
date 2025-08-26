@@ -93,7 +93,7 @@ services:
 networks:
   network:
     name: mosip_network
-    external: true
+    external: false
 
 volumes:
   cache:
